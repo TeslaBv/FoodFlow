@@ -86,7 +86,7 @@
             
             <!-- Opciones del sidebar -->
             <div class="sidebar-option">
-                <img src="../../assets/icons/search.png" class="logo" alt="LOGO">
+                <img src="../assets/icons/search.png" class="logo" alt="LOGO">
                 <span class="option-text">Buscar</span>
             </div>
             <div class="sidebar-option">
